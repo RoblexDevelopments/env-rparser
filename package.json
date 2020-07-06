@@ -1,7 +1,7 @@
 {
   "name": "renv",
   "version": "1.0.0",
-  "description": "",
+  "description": "The .env file parser that Roblex uses.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
